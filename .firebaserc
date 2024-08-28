@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "vigorgraph-abbf7",
+    "v": "vigorgraph",
+    "VigorGraph": "vigorgraph-abbf7"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
