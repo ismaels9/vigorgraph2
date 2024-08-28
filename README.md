@@ -3,3 +3,5 @@
 app.zip = servidor (solicite os pesos)
 
 Servidor em python, necessário instalar na máquina que irá executar
+
+Aplicação react na branch master
